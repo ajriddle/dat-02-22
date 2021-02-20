@@ -19,6 +19,8 @@ Class Syllabus For General Assembly's Part Time Data Science Class, Starting on 
 
 **Github Repo**:  https://bit.ly/dat-02-22
 
+**Class Website**:  https://www.jonathanbech.tel/data-science-part-time-class
+
 
 ### Due Dates:
 
